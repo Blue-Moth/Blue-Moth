@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blue-Moth
+- 👋 Hi, I’m Aryss
 - 👀 I’m interested in genomics and bioinformatics
 - 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on ...
